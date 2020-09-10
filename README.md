@@ -2,7 +2,7 @@
 
 ## About
 
-This is a simple project I made to as part of a friendly competition with my father. A self-proclaimed New York Times Sudoku whiz, my father put me up to the challenge of completing all 3 of the daily new York Times Sudoku puzzles before he could. Luckily, there was no mention of using a programmative aid in our competion, and hence this project was born
+This is a simple project I made to as part of a friendly competition with my father. A self-proclaimed New York Times Sudoku whiz, my father put me up to the challenge of completing all 3 of the daily new York Times Sudoku puzzles before he could. Luckily, there was no mention of using a programmative aid in our competion and hence this project was born
 
 ## Technologies
 
