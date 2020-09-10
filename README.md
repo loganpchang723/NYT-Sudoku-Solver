@@ -15,7 +15,7 @@ This program implements a forward-checking MRV backtracking algorithm to solve t
 
 ## Launch
 In order to run on your own machine, only the `main.py` and `sudokuLog.txt` files are necessary...the rest were unit tests I had implemented seperately that eventually were all compiled together in `main.py`. By running the "main" method
-in `main.py`, the program will initiate a sentient Chrome tab that directs to the "Easy" puzzle of the day, read in the board, solve the board, input the solution to the board on the puzzle website, then navigate to the next hardest puzzle in terms of listed difficulty.
+in `main.py`, the program will initiate an autonomous Chrome tab that directs to the "Easy" puzzle of the day, read in the board, solve the board, input the solution to the board on the puzzle website, then navigate to the next hardest puzzle in terms of listed difficulty.
 Upon solving all three daily puzzles, the Chrome tab will quit and information will be logged to `sudokuLog.txt`. This information includes:
 
 - A heading with the current date 
