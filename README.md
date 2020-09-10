@@ -6,6 +6,8 @@ This is a simple project I made to as part of a friendly competition with my fat
 
 ## Technologies
 
+- Python 3.8
+
 This project uses Python Selenium and Chrome Webdriver to read the puzzle board, input the solutions into the website itself, and navigate between all three daily puzzles.
 This program implements a forward-checking MRV backtracking algorithm to solve the puzzle.
 
